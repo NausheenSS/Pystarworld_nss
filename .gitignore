@@ -1,0 +1,6 @@
+build/
+dist/
+pystarworlds.egg-info/
+pystarworlds/__pycache__/
+.spyproject/
+
